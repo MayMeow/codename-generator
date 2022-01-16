@@ -6,7 +6,7 @@
     </div>
     <button @click="generateName">Click me!</button>
     <div style="margin-top: 1em;">
-      Total combinations: {{ totalCombination }}, Source code is available at <a href="https://github.com" target="_blank">GitHub</a>
+      Total combinations: {{ totalCombination }}, Source code is available at <a href="https://github.com/MayMeow/codename-generator" target="_blank">GitHub</a>
     </div>
   </div>
 </template>
